@@ -1,0 +1,2 @@
+hello guys for creating new file in git bash for ubuntu project
+I have created this file
